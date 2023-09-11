@@ -1,3 +1,2 @@
 # hello-world
-hello world document
-hi my name is Matthew Sharp
+Hi my name is Matthew Sharp. I'm a 3rd year student at FSC.
